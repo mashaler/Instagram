@@ -46,6 +46,7 @@
 		D72CED892C8A71B200F14145 /* DataLoadOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = D72CED882C8A71B200F14145 /* DataLoadOperation.swift */; };
 		D72CED8B2C8A71C800F14145 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = D72CED8A2C8A71C800F14145 /* Extensions.swift */; };
 		D72CED8D2C8A71E300F14145 /* FirebaseUtilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = D72CED8C2C8A71E300F14145 /* FirebaseUtilities.swift */; };
+		D72CED8F2C8A74E900F14145 /* GoogleService-Info (1).plist in Resources */ = {isa = PBXBuildFile; fileRef = D72CED8E2C8A74E900F14145 /* GoogleService-Info (1).plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -90,6 +91,7 @@
 		D72CED882C8A71B200F14145 /* DataLoadOperation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataLoadOperation.swift; sourceTree = "<group>"; };
 		D72CED8A2C8A71C800F14145 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		D72CED8C2C8A71E300F14145 /* FirebaseUtilities.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirebaseUtilities.swift; sourceTree = "<group>"; };
+		D72CED8E2C8A74E900F14145 /* GoogleService-Info (1).plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info (1).plist"; path = "../../../Downloads/GoogleService-Info (1).plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -135,6 +137,7 @@
 				D72CED412C8A698900F14145 /* Comments */,
 				D70E796E2C8A5DCF00E9EAC8 /* MainTabBarController.swift */,
 				D70E79702C8A5DCF00E9EAC8 /* Main.storyboard */,
+				D72CED8E2C8A74E900F14145 /* GoogleService-Info (1).plist */,
 				D70E79762C8A5DD900E9EAC8 /* Assets.xcassets */,
 				D70E79782C8A5DD900E9EAC8 /* LaunchScreen.storyboard */,
 				D70E797B2C8A5DD900E9EAC8 /* Info.plist */,
@@ -323,6 +326,7 @@
 				D70E797A2C8A5DD900E9EAC8 /* LaunchScreen.storyboard in Resources */,
 				D70E79772C8A5DD900E9EAC8 /* Assets.xcassets in Resources */,
 				D70E79722C8A5DCF00E9EAC8 /* Main.storyboard in Resources */,
+				D72CED8F2C8A74E900F14145 /* GoogleService-Info (1).plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
