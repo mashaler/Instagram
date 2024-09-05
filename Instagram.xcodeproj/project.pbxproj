@@ -58,6 +58,17 @@
 		D70E79692C8A5DCF00E9EAC8 /* Instagram */ = {
 			isa = PBXGroup;
 			children = (
+				D72CED4B2C8A6A5200F14145 /* Utilities */,
+				D72CED4A2C8A6A4500F14145 /* User */,
+				D72CED492C8A6A3400F14145 /* User Search */,
+				D72CED482C8A6A2100F14145 /* Supporting Files */,
+				D72CED472C8A6A0A00F14145 /* SignIn+SignUp */,
+				D72CED462C8A69F100F14145 /* Share */,
+				D72CED452C8A69DD00F14145 /* Photo Selector */,
+				D72CED442C8A69CE00F14145 /* Model */,
+				D72CED432C8A69B900F14145 /* Home */,
+				D72CED422C8A69A600F14145 /* DM */,
+				D72CED412C8A698900F14145 /* Comments */,
 				D70E796A2C8A5DCF00E9EAC8 /* AppDelegate.swift */,
 				D70E796C2C8A5DCF00E9EAC8 /* SceneDelegate.swift */,
 				D70E796E2C8A5DCF00E9EAC8 /* ViewController.swift */,
@@ -68,6 +79,83 @@
 				D70E79732C8A5DCF00E9EAC8 /* Instagram.xcdatamodeld */,
 			);
 			path = Instagram;
+			sourceTree = "<group>";
+		};
+		D72CED412C8A698900F14145 /* Comments */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Comments;
+			sourceTree = "<group>";
+		};
+		D72CED422C8A69A600F14145 /* DM */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = DM;
+			sourceTree = "<group>";
+		};
+		D72CED432C8A69B900F14145 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		D72CED442C8A69CE00F14145 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		D72CED452C8A69DD00F14145 /* Photo Selector */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Photo Selector";
+			sourceTree = "<group>";
+		};
+		D72CED462C8A69F100F14145 /* Share */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Share;
+			sourceTree = "<group>";
+		};
+		D72CED472C8A6A0A00F14145 /* SignIn+SignUp */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "SignIn+SignUp";
+			sourceTree = "<group>";
+		};
+		D72CED482C8A6A2100F14145 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		D72CED492C8A6A3400F14145 /* User Search */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "User Search";
+			sourceTree = "<group>";
+		};
+		D72CED4A2C8A6A4500F14145 /* User */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = User;
+			sourceTree = "<group>";
+		};
+		D72CED4B2C8A6A5200F14145 /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Utilities;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
